@@ -1,0 +1,5 @@
+com/example/studentmangementsystem/Student.class
+com/example/studentmangementsystem/StudentController.class
+com/example/studentmangementsystem/StudentRepository.class
+com/example/studentmangementsystem/StudentMangementSystemApplication.class
+com/example/studentmangementsystem/StudentService.class
